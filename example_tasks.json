@@ -1,0 +1,23 @@
+{
+  "date": "2026-01-28",
+  "tasks": [
+    {
+      "task_id": "cc-day2-task1",
+      "title": "Cloud Computing - AWS Fundamentals",
+      "description": "Study EC2, S3, and basic AWS services",
+      "duration_minutes": 90
+    },
+    {
+      "task_id": "cc-day2-task2",
+      "title": "Cloud Computing - Practice Labs",
+      "description": "Hands-on AWS console exercises",
+      "duration_minutes": 60
+    },
+    {
+      "task_id": "cc-day2-task3",
+      "title": "Cloud Computing - Review Notes",
+      "description": "Document learnings and key concepts",
+      "duration_minutes": 30
+    }
+  ]
+}
